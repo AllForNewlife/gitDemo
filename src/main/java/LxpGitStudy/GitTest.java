@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("lxp hello git");
         System.out.println("Third commit");
         System.out.println("Hello git4");
+        System.out.println("hot-fix test");
     }
 }
